@@ -1,0 +1,12 @@
+.Dashboard {
+    background-color: #f1f5f2;
+    padding: 20px;
+    column-count: 2;
+    column-gap: 2.5%;
+}
+
+@media screen and (max-width: 800px) {
+    .Dashboard {
+        column-count: 1;
+    }
+}
