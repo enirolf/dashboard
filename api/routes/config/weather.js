@@ -1,6 +1,6 @@
 module.exports = {
   baseUrl: {
-    protocol: 'http',
+    protocol: 'https',
     hostname: 'api.openweathermap.org',
     path: '/data/2.5/weather',
   },
